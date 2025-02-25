@@ -72,7 +72,5 @@ GROUP BY Age_group;
 ## Contribution
 Feel free to contribute by forking the repo and submitting a pull request.
 
-## License
-This project is under the MIT License.
-```
+
 
